@@ -1,2 +1,2 @@
-# C-lculos
-Todas as coisas de cálculos ##
+# Cálculous
+Repositório destinado as disciplinas de cálculos + equações diferencias/EDO
